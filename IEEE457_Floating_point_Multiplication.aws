@@ -1,0 +1,12 @@
+[Version]
+Version=13.0
+[Designs]
+ieee754 floating point multiplication=.\IEEE754 Floating point Multiplication\IEEE754 Floating point Multiplication.adf
+[Browser]
+sort=order
+mode=none
+[Order]
+order=1
+macro=
+[Expand]
+ieee754 floating point multiplication=1

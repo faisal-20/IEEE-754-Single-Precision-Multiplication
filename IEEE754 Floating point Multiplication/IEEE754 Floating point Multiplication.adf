@@ -1,0 +1,82 @@
+[Project]
+Current Flow=Generic
+VCS=0
+version=4
+Current Config=compile
+[Configurations]
+compile=IEEE754_Floating_point_Multiplication
+[Library]
+IEEE754_Floating_point_Multiplication=.\IEEE754_Floating_point_Multiplication\IEEE754_Floating_point_Multiplication.lib
+[$LibMap$]
+IEEE754_Floating_point_Multiplication=.
+Active_lib=
+[Settings]
+FLOW_TYPE=HDL
+LANGUAGE=VERILOG
+REFRESH_FLOW=1
+FLOWTOOLS=NONE
+FAMILY=
+[Files]
+/FloatingPoint Format.v=-1
+/Ripple_Carry_Adder_8bit.v=-1
+/Ripple_Carry_Adder_8bit_tb.v=-1
+/full_adder.v=-1
+/Correct_Adder_8bit.v=-1
+/Add_1_to_Exponent.v=-1
+/Mux2to1_8bit.v=-1
+/Multiplier_24bit.v=-1
+/Mux2to1_48bit.v=-1
+/Shift_right_1bit.v=-1
+/Rounding_48bit.v=-1
+/IEEE754_Multiplication.bde=-1
+/IEEE754_Multiplication_tb.v=-1
+/..\..\IEEE754FloatingpointMultiplication\src\IEEE754_Multiplication_sim.asdb=-1
+/..\..\IEEE754FloatingpointMultiplication\src\IEEE754_Multiplication_sim.awc=-1
+/Correct_Adder_8bit_tb.v=-1
+/..\..\IEEE754FloatingpointMultiplication\src\Ripple_Carry_Adder_8bit_sim.asdb=-1
+/..\..\IEEE754FloatingpointMultiplication\src\Ripple_Carry_Adder_8bit_sim.awc=-1
+/..\..\IEEE754FloatingpointMultiplication\src\IEEE754_Multiplication.asdb=-1
+/..\..\IEEE754FloatingpointMultiplication\src\IEEE754_Multiplication.awc=-1
+/..\..\IEEE754FloatingpointMultiplication\src\Correct_Adder_8bit_sim.asdb=-1
+/..\..\IEEE754FloatingpointMultiplication\src\Correct_Adder_8bit_sim.awc=-1
+/Rounding_48bit_tb.v=-1
+/..\..\IEEE754FloatingpointMultiplication\src\Rounding_48bit_sim.asdb=-1
+/..\..\IEEE754FloatingpointMultiplication\src\Rounding_48bit_sim.awc=-1
+/Multiplier_24bit_tb.v=-1
+/..\..\IEEE754FloatingpointMultiplication\src\Multiplier_24bit_tb.asdb=-1
+/..\..\IEEE754FloatingpointMultiplication\src\Multiplier_24bit_tb.awc=-1
+[Files.Data]
+.\src\FloatingPoint Format.v=Verilog Source Code
+.\src\Ripple_Carry_Adder_8bit.v=Verilog Source Code
+.\src\Ripple_Carry_Adder_8bit_tb.v=Verilog Source Code
+.\src\full_adder.v=Verilog Source Code
+.\src\Correct_Adder_8bit.v=Verilog Source Code
+.\src\Add_1_to_Exponent.v=Verilog Source Code
+.\src\Mux2to1_8bit.v=Verilog Source Code
+.\src\Multiplier_24bit.v=Verilog Source Code
+.\src\Mux2to1_48bit.v=Verilog Source Code
+.\src\Shift_right_1bit.v=Verilog Source Code
+.\src\Rounding_48bit.v=Verilog Source Code
+.\src\IEEE754_Multiplication.bde=Block Diagram
+.\src\IEEE754_Multiplication_tb.v=Verilog Source Code
+.\..\IEEE754FloatingpointMultiplication\src\IEEE754_Multiplication_sim.asdb=Accelerated Waveform File
+.\..\IEEE754FloatingpointMultiplication\src\IEEE754_Multiplication_sim.awc=Accelerated Waveform Configuration
+.\src\Correct_Adder_8bit_tb.v=Verilog Source Code
+.\..\IEEE754FloatingpointMultiplication\src\Ripple_Carry_Adder_8bit_sim.asdb=Accelerated Waveform File
+.\..\IEEE754FloatingpointMultiplication\src\Ripple_Carry_Adder_8bit_sim.awc=Accelerated Waveform Configuration
+.\..\IEEE754FloatingpointMultiplication\src\IEEE754_Multiplication.asdb=Accelerated Waveform File
+.\..\IEEE754FloatingpointMultiplication\src\IEEE754_Multiplication.awc=Accelerated Waveform Configuration
+.\..\IEEE754FloatingpointMultiplication\src\Correct_Adder_8bit_sim.asdb=Accelerated Waveform File
+.\..\IEEE754FloatingpointMultiplication\src\Correct_Adder_8bit_sim.awc=Accelerated Waveform Configuration
+.\src\Rounding_48bit_tb.v=Verilog Source Code
+.\..\IEEE754FloatingpointMultiplication\src\Rounding_48bit_sim.asdb=Accelerated Waveform File
+.\..\IEEE754FloatingpointMultiplication\src\Rounding_48bit_sim.awc=Accelerated Waveform Configuration
+.\src\Multiplier_24bit_tb.v=Verilog Source Code
+.\..\IEEE754FloatingpointMultiplication\src\Multiplier_24bit_tb.asdb=Accelerated Waveform File
+.\..\IEEE754FloatingpointMultiplication\src\Multiplier_24bit_tb.awc=Accelerated Waveform Configuration
+[file_out:/IEEE754_Multiplication.bde]
+/..\compile\IEEE754_Multiplication.v=-1
+[HierarchyViewer]
+HierarchyInformation=
+ShowHide=ShowTopLevel
+Selected=

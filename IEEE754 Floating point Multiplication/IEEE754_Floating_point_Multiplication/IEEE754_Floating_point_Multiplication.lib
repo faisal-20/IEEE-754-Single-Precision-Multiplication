@@ -1,0 +1,193 @@
+timestamp=1686221821931
+
+[~A]
+./../compile/IEEE754_Multiplication.v=0*68712*69733
+C:/My_Designs/IEEE457_Floating_point_Multiplication/IEEE754 Floating point Multiplication/src/Add_1_to_Exponent.v=0*13154*13675
+C:/My_Designs/IEEE457_Floating_point_Multiplication/IEEE754 Floating point Multiplication/src/Correct_Adder_8bit.v=0*37574*38144
+C:/My_Designs/IEEE457_Floating_point_Multiplication/IEEE754 Floating point Multiplication/src/Correct_Adder_8bit_tb.v=0*39291*39928
+C:/My_Designs/IEEE457_Floating_point_Multiplication/IEEE754 Floating point Multiplication/src/FloatingPoint Format.v=0*444*1016
+C:/My_Designs/IEEE457_Floating_point_Multiplication/IEEE754 Floating point Multiplication/src/FloatingPoint Format.v_Ripple_Carry_Adder_8bit.v_Ripple_Carry_Adder_8bit_tb.v_full_adder.v_Correct_Adder_8bit.v_Add_1_to_Exponent.v_Mux2to1_8bit.v_Multiplier_24bit.v_Mux2to1_48bit.v_Shift_right_1bit.v_Rounding_48bit.v_IEEE754_Multiplication.v_IEEE754_Multiplication_tb.v_Correct_Adder_8bit_tb.v=0*8301*11594
+C:/My_Designs/IEEE457_Floating_point_Multiplication/IEEE754 Floating point Multiplication/src/IEEE754_Multiplication_tb.v=0*66562*67299
+C:/My_Designs/IEEE457_Floating_point_Multiplication/IEEE754 Floating point Multiplication/src/Multiplier1_24bit.v=0*34896*35465
+C:/My_Designs/IEEE457_Floating_point_Multiplication/IEEE754 Floating point Multiplication/src/Multiplier1_24bit_tb.v=0*38518*39250
+C:/My_Designs/IEEE457_Floating_point_Multiplication/IEEE754 Floating point Multiplication/src/Multiplier_24bit.v=0*15202*15770
+C:/My_Designs/IEEE457_Floating_point_Multiplication/IEEE754 Floating point Multiplication/src/Multiplier_24bit_tb.v=0*16989*17752
+C:/My_Designs/IEEE457_Floating_point_Multiplication/IEEE754 Floating point Multiplication/src/Mux2to1_48bit.v=0*44015*44532
+C:/My_Designs/IEEE457_Floating_point_Multiplication/IEEE754 Floating point Multiplication/src/Mux2to1_8bit.v=0*14840*15388
+C:/My_Designs/IEEE457_Floating_point_Multiplication/IEEE754 Floating point Multiplication/src/Ripple_Carry_Adder_8bit.v=0*48932*49763
+C:/My_Designs/IEEE457_Floating_point_Multiplication/IEEE754 Floating point Multiplication/src/Ripple_Carry_Adder_8bit_tb.v=0*52630*53464
+C:/My_Designs/IEEE457_Floating_point_Multiplication/IEEE754 Floating point Multiplication/src/Rounding_48bit.v=0*47473*48103
+C:/My_Designs/IEEE457_Floating_point_Multiplication/IEEE754 Floating point Multiplication/src/Rounding_48bit_tb.v=0*13260*13925
+C:/My_Designs/IEEE457_Floating_point_Multiplication/IEEE754 Floating point Multiplication/src/Shift_right_1bit.v=0*45728*46248
+C:/My_Designs/IEEE457_Floating_point_Multiplication/IEEE754 Floating point Multiplication/src/full_adder.v=0*50937*51499
+LastVerilogToplevel=Multiplier_24bit_tb
+ModifyID=72
+Version=74
+
+[~MFT]
+0=5|0IEEE754_Floating_point_Multiplication.mgf|17752|0
+1=3|1IEEE754_Floating_point_Multiplication.mgf|48729|23766
+2=0|2IEEE754_Floating_point_Multiplication.mgf|13713|0
+3=8|3IEEE754_Floating_point_Multiplication.mgf|30947|14744
+
+[$root]
+A/$root=22|||1*48275
+BinW64/$root=3*29878
+SLP=3*29993
+Version=13.0.376.8320 (Windows64)|0000000b789cd3f53752d02d2e33ca3634020010aa02e5|c73a565f2ade592f8ac1c68f484c921691afa2480ee65ddf94f92eeee3121b2d
+
+[Add_1_to_Exponent]
+A/Add_1_to_Exponent=22|../src/Add_1_to_Exponent.v|25|1*31997
+BinW64/Add_1_to_Exponent=3*20037
+NSymbols/add_1_to_exponent=NSymbols/Add_1_to_Exponent 40|0|2*7361
+R=../src/Add_1_to_Exponent.v|25
+SLP=3*20448
+Version=13.0.376.8320 (Windows64)|0000000b789cd3f53752d02d2e33ca3634020010aa02e5|18abc18bd402ef96c098ee5c1e4e3fa1f16c35ca0c436afa1f414ead8c3be4e5635c19893ec9e16aa1d6b822b926c4ef
+
+[Correct_Adder_8bit]
+A/Correct_Adder_8bit=22|../src/Correct_Adder_8bit.v|25|1*30998
+BinW64/Correct_Adder_8bit=3*19186
+NSymbols/correct_adder_8bit=NSymbols/Correct_Adder_8bit 40|0|2*5778
+R=../src/Correct_Adder_8bit.v|25
+SLP=3*19797
+Version=13.0.376.8320 (Windows64)|0000000b789cd3f53752d02d2e33ca3634020010aa02e5|f913777a501274bce36494c2bd6c204113639476954da92ee1ab83c1a77f4830b5aadaa97ed8b69eba717c8f93c0e2da
+
+[Correct_Adder_8bit_tb]
+A/Correct_Adder_8bit_tb=22|../src/Correct_Adder_8bit_tb.v|25|1*43762
+BinW64/Correct_Adder_8bit_tb=3*26591
+R=../src/Correct_Adder_8bit_tb.v|25
+SLP=3*27129
+Version=13.0.376.8320 (Windows64)|0000000b789cd3f53752d02d2e33ca3634020010aa02e5|f913777a501274bce36494c2bd6c204107c6325ec61961b765d1694a3e41a382a039a4feb595adad789d8dc737ee03d7
+
+[FloatingPoint_Format]
+A/FloatingPoint_Format=22|../src/FloatingPoint Format.v|25|1*24227
+BinW64/FloatingPoint_Format=3*15471
+NSymbols/floatingpoint_format=NSymbols/FloatingPoint_Format 40|0|2*0
+R=../src/FloatingPoint Format.v|25
+SLP=3*15977
+Version=13.0.376.8320 (Windows64)|0000000b789cd3f53752d02d2e33ca3634020010aa02e5|c3ffd647dcd7a5141e24353da2d08f3276100f292bda0dc968db5c480a3cbef325d0b923e84866c6b2458a203d76685b
+
+[IEEE754_Multiplication]
+A/IEEE754_Multiplication=24|../src/IEEE754_Multiplication.bde|10000|1*38458
+BinW64/IEEE754_Multiplication=3*24711
+R=../src/IEEE754_Multiplication.bde|25
+SLP=3*25050
+Version=13.0.376.8320 (Windows64)|0000000b789cd3f53752d02d2e33ca3634020010aa02e5|2d25ed267e91ca30593f59197e7ad7a20c75befdc07c96ee894ffc282605824bd0a7ed40290d7c6b524d843b9b0f5032
+
+[IEEE754_Multiplication_tb]
+A/IEEE754_Multiplication_tb=22|../src/IEEE754_Multiplication_tb.v|1|1*42231
+BinW64/IEEE754_Multiplication_tb=3*25299
+R=../src/IEEE754_Multiplication_tb.v|1
+SLP=3*26044
+Version=13.0.376.8320 (Windows64)|0000000b789cd3f53752d02d2e33ca3634020010aa02e5|2d25ed267e91ca30593f59197e7ad7a23141d17e8241cb4f6a6bebc1bcc86d7bcbfd6035e77b947613489f4025e030d672a8a9a9126fb0fe695e67d23c12789e
+
+[Multiplier1_24bit]
+A/Multiplier1_24bit=22|../src/Multiplier_24bit.v|25|1*10409
+BinW64/Multiplier1_24bit=3*5187
+NSymbols/multiplier1_24bit=NSymbols/Multiplier1_24bit 40|0|2*3858
+R=../src/Multiplier_24bit.v|25
+SLP=3*5848
+Version=13.0.376.8320 (Windows64)|0000000b789cd3f53752d02d2e33ca3634020010aa02e5|f2957945ba880109ed9ddd47ec982dd44082bdbb0a0d3009fbb4099c126bf19589a4af694c65a48e56f5b7225bc49116
+
+[Multiplier1_24bit_tb]
+A/Multiplier1_24bit_tb=22|../src/Multiplier1_24bit_tb.v|25|1*11643
+BinW64/Multiplier1_24bit_tb=3*6118
+R=../src/Multiplier1_24bit_tb.v|25
+SLP=3*6761
+Version=13.0.376.8320 (Windows64)|0000000b789cd3f53752d02d2e33ca3634020010aa02e5|f2957945ba880109ed9ddd47ec982dd46dc23c2b316beb252e48df446b4fe917b1b7e620c18841aac37afa4166dec054
+
+[Multiplier_24bit]
+A/Multiplier_24bit=22|../src/Multiplier_24bit.v|25|1*47045
+BinW64/Multiplier_24bit=3*28951
+R=../src/Multiplier_24bit.v|25
+SLP=3*29611
+Version=13.0.376.8320 (Windows64)|0000000b789cd3f53752d02d2e33ca3634020010aa02e5|efa1915e91983afb8409718e95acac39b1b0259d9e886bbebe8f6291d605c4e5fe3c0f929b50ff0047da7f1c98ae73e3
+
+[Multiplier_24bit_tb]
+A/Multiplier_24bit_tb=22|../src/Multiplier_24bit_tb.v|25|1*48729
+BinW64/Multiplier_24bit_tb=3*30061
+R=../src/Multiplier_24bit_tb.v|25
+SLP=3*30947
+Version=13.0.376.8320 (Windows64)|0000000b789cd3f53752d02d2e33ca3634020010aa02e5|efa1915e91983afb8409718e95acac39aefae873e25deddab36699b3db2f3b8615b0b73a55b1a5df6259e49620099f2c
+
+[Mux2to1_48bit]
+A/Mux2to1_48bit=22|../src/Mux2to1_48bit.v|1|1*35211
+BinW64/Mux2to1_48bit=3*22298
+NSymbols/mux2to1_48bit=NSymbols/Mux2to1_48bit 40|0|2*11801
+R=../src/Mux2to1_48bit.v|1
+SLP=3*22837
+Version=13.0.376.8320 (Windows64)|0000000b789cd3f53752d02d2e33ca3634020010aa02e5|dcf6f5f38a592340c79dbc469c8576f408d90579f98c530e7c1a3d84b949d5b18ea9c95ed62b127eae0546d9e33f8a80
+
+[Mux2to1_8bit]
+A/Mux2to1_8bit=22|../src/Mux2to1_8bit.v|25|1*32925
+BinW64/Mux2to1_8bit=3*20636
+NSymbols/mux2to1_8bit=NSymbols/Mux2to1_8bit 40|0|2*9895
+R=../src/Mux2to1_8bit.v|25
+SLP=3*21154
+Version=13.0.376.8320 (Windows64)|0000000b789cd3f53752d02d2e33ca3634020010aa02e5|a9a31954e6712b03575033cc5ce9f5b7476581c99dd910bfeeb5870692d9939ef9a3ce41b0b70da7cc0296b45ceb000a
+
+[Ripple_Carry_Adder_8bit]
+A/Ripple_Carry_Adder_8bit=22|../src/Ripple_Carry_Adder_8bit.v|25|1*25750
+BinW64/Ripple_Carry_Adder_8bit=3*16266
+NSymbols/ripple_carry_adder_8bit=NSymbols/Ripple_Carry_Adder_8bit 40|0|2*1937
+R=../src/Ripple_Carry_Adder_8bit.v|25
+SLP=3*16399
+Version=13.0.376.8320 (Windows64)|0000000b789cd3f53752d02d2e33ca3634020010aa02e5|0a7ad619399318bf36d3d5d55efa82ae3a7357aeefe22881fcb052762f32eef626527262ddaa47cb266f3a3c4d9b973a6b7973a46515da9991fa793795fa4f6d
+
+[Ripple_Carry_Adder_8bit_tb]
+A/Ripple_Carry_Adder_8bit_tb=22|../src/Ripple_Carry_Adder_8bit_tb.v|25|1*29661
+BinW64/Ripple_Carry_Adder_8bit_tb=3*17559
+R=../src/Ripple_Carry_Adder_8bit_tb.v|25
+SLP=3*18476
+Version=13.0.376.8320 (Windows64)|0000000b789cd3f53752d02d2e33ca3634020010aa02e5|0a7ad619399318bf36d3d5d55efa82ae0d594b3373fc24f8ba453fd0c1b11c60d22ea88a80d5a4921d108fd8d91b1eee9f167f241e953b944c948de4b36f8758
+
+[Rounding_48bit]
+A/Rounding_48bit=22|../src/Rounding_48bit.v|25|1*37188
+BinW64/Rounding_48bit=3*23630
+NSymbols/rounding_48bit=NSymbols/Rounding_48bit 40|0|2*13713
+R=../src/Rounding_48bit.v|25
+SLP=3*24393
+Version=13.0.376.8320 (Windows64)|0000000b789cd3f53752d02d2e33ca3634020010aa02e5|4513d5833e0def34df84eba8f87b5f9ed471ebdec2ab97fa905551cc74b45aeec72978fa2cd9c211c3680b560b5e4f80
+
+[Rounding_48bit_tb]
+A/Rounding_48bit_tb=22|../src/Rounding_48bit_tb.v|25|1*45433
+BinW64/Rounding_48bit_tb=3*27653
+R=../src/Rounding_48bit_tb.v|25
+SLP=3*28331
+Version=13.0.376.8320 (Windows64)|0000000b789cd3f53752d02d2e33ca3634020010aa02e5|4513d5833e0def34df84eba8f87b5f9e1a7ef9e6b7bd7c3b442e4490f355cc16fcfdd376e652f2d225e04235c60f8d98
+
+[Shift_right_1bit]
+A/Shift_right_1bit=22|../src/Shift_right_1bit.v|25|1*36269
+BinW64/Shift_right_1bit=3*23055
+NSymbols/shift_right_1bit=NSymbols/Shift_right_1bit 40|0|2*8632
+R=../src/Shift_right_1bit.v|25
+SLP=3*23442
+Version=13.0.376.8320 (Windows64)|0000000b789cd3f53752d02d2e33ca3634020010aa02e5|d1c7d2fa0df653ca0dba621637aba595a70abfe7f590c056372a63393284a894e5e2f57fe814f532aad094c45d7263b6
+
+[full_adder]
+A/full_adder=22|../src/full_adder.v|25|1*28597
+BinW64/full_adder=3*16861
+R=../src/full_adder.v|25
+SLP=3*17343
+Version=13.0.376.8320 (Windows64)|0000000b789cd3f53752d02d2e33ca3634020010aa02e5|b6bc4c72c6b4732d30366d04e0b9d81ca93b35da59acef6f28d70118359e933eeffc314e525e2c7fa4f284b1a1958c87
+
+[~U]
+$root=12|0*16427|
+Add_1_to_Exponent=12|0*6026||0x3
+Correct_Adder_8bit=12|0*5795||0x3
+Correct_Adder_8bit_tb=12|0*8107||0x10
+FloatingPoint_Format=12|0*4821||0x3
+IEEE754_Multiplication=12|0*7388||0x10
+IEEE754_Multiplication_tb=12|0*7792||0x10
+Multiplier1_24bit=12|0*1978||0x3
+Multiplier1_24bit_tb=12|0*2225||0x10
+Multiplier_24bit=12|0*14957|
+Multiplier_24bit_tb=12|0*16801||0x10
+Mux2to1_48bit=12|0*6714||0x3
+Mux2to1_8bit=12|0*6240||0x3
+Ripple_Carry_Adder_8bit=12|0*5083||0x3
+Ripple_Carry_Adder_8bit_tb=12|0*5578||0x10
+Rounding_48bit=12|0*7162||0x3
+Rounding_48bit_tb=12|0*13077||0x10
+Shift_right_1bit=12|0*6946||0x3
+full_adder=12|0*5362|

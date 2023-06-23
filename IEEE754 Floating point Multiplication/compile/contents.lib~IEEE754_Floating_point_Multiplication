@@ -1,0 +1,39 @@
+72
+~M 0 "" 0 $root
+~A 1 "" 0 $root
+~M 1 "../src/Add_1_to_Exponent.v" 25 Add_1_to_Exponent
+~A 1 "../src/Add_1_to_Exponent.v" 25 Add_1_to_Exponent
+~M 1 "../src/Correct_Adder_8bit.v" 25 Correct_Adder_8bit
+~A 1 "../src/Correct_Adder_8bit.v" 25 Correct_Adder_8bit
+~M 3 "../src/Correct_Adder_8bit_tb.v" 25 Correct_Adder_8bit_tb
+~A 1 "../src/Correct_Adder_8bit_tb.v" 25 Correct_Adder_8bit_tb
+~M 1 "../src/FloatingPoint Format.v" 25 FloatingPoint_Format
+~A 1 "../src/FloatingPoint Format.v" 25 FloatingPoint_Format
+~M 3 "../src/IEEE754_Multiplication.bde" 25 IEEE754_Multiplication
+~A 1 "./../compile/IEEE754_Multiplication.v" 30 IEEE754_Multiplication
+~M 3 "../src/IEEE754_Multiplication_tb.v" 1 IEEE754_Multiplication_tb
+~A 1 "../src/IEEE754_Multiplication_tb.v" 1 IEEE754_Multiplication_tb
+~M 1 "../src/Multiplier_24bit.v" 25 Multiplier1_24bit
+~A 1 "../src/Multiplier_24bit.v" 25 Multiplier1_24bit
+~M 3 "../src/Multiplier1_24bit_tb.v" 25 Multiplier1_24bit_tb
+~A 1 "../src/Multiplier1_24bit_tb.v" 25 Multiplier1_24bit_tb
+~M 1 "../src/Multiplier_24bit.v" 25 Multiplier_24bit
+~A 1 "../src/Multiplier_24bit.v" 25 Multiplier_24bit
+~M 3 "../src/Multiplier_24bit_tb.v" 25 Multiplier_24bit_tb
+~A 1 "../src/Multiplier_24bit_tb.v" 25 Multiplier_24bit_tb
+~M 1 "../src/Mux2to1_48bit.v" 1 Mux2to1_48bit
+~A 1 "../src/Mux2to1_48bit.v" 1 Mux2to1_48bit
+~M 1 "../src/Mux2to1_8bit.v" 25 Mux2to1_8bit
+~A 1 "../src/Mux2to1_8bit.v" 25 Mux2to1_8bit
+~M 1 "../src/Ripple_Carry_Adder_8bit.v" 25 Ripple_Carry_Adder_8bit
+~A 1 "../src/Ripple_Carry_Adder_8bit.v" 25 Ripple_Carry_Adder_8bit
+~M 3 "../src/Ripple_Carry_Adder_8bit_tb.v" 25 Ripple_Carry_Adder_8bit_tb
+~A 1 "../src/Ripple_Carry_Adder_8bit_tb.v" 25 Ripple_Carry_Adder_8bit_tb
+~M 1 "../src/Rounding_48bit.v" 25 Rounding_48bit
+~A 1 "../src/Rounding_48bit.v" 25 Rounding_48bit
+~M 3 "../src/Rounding_48bit_tb.v" 25 Rounding_48bit_tb
+~A 1 "../src/Rounding_48bit_tb.v" 25 Rounding_48bit_tb
+~M 1 "../src/Shift_right_1bit.v" 25 Shift_right_1bit
+~A 1 "../src/Shift_right_1bit.v" 25 Shift_right_1bit
+~M 1 "../src/full_adder.v" 25 full_adder
+~A 1 "../src/full_adder.v" 25 full_adder

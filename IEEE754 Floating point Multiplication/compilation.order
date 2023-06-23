@@ -1,0 +1,16 @@
+.\src\FloatingPoint Format.v
+.\src\Ripple_Carry_Adder_8bit.v
+.\src\Ripple_Carry_Adder_8bit_tb.v
+.\src\full_adder.v
+.\src\Correct_Adder_8bit.v
+.\src\Add_1_to_Exponent.v
+.\src\Mux2to1_8bit.v
+.\src\Multiplier_24bit.v
+.\src\Mux2to1_48bit.v
+.\src\Shift_right_1bit.v
+.\src\Rounding_48bit.v
+.\src\IEEE754_Multiplication.bde
+.\src\IEEE754_Multiplication_tb.v
+.\src\Correct_Adder_8bit_tb.v
+.\src\Rounding_48bit_tb.v
+.\src\Multiplier_24bit_tb.v
